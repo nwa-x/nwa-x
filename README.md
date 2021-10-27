@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nwa-x
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning ui/ux design
-- 💞️ I’m looking to collaborate on nothing for now
+- 👀 I’m interested in mobile application development 
+- 🌱 I’m currently finding my way in flutter and android studio
 - 📫 How to reach me adonoabraham@gmail.com
 
 <!---
